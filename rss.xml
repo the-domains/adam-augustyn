@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Adam Augustyn]]></title>
         <description><![CDATA[Adam Augustyn]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/adam-augustyn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 15:23:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 15:25:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adam-augustyn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/124a2757-fcbb-40ff-954f-09442cd0a595.png">]]></description>
+            <link>https://thegrid.ai/adam-augustyn/7724fa6e-124f-4f70-ba0d-1c09c9c2d054/index.html</link>
+            <guid isPermaLink="false">7724fa6e-124f-4f70-ba0d-1c09c9c2d054</guid>
+            <pubDate>Thu, 18 Aug 2016 15:25:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e190c56-dd69-4561-88b2-4b87e07fed89.png">]]></description>
-            <link>undefinedbd99f285-6225-4cd3-9a55-4ba75963e239/index.html</link>
+            <link>https://thegrid.ai/adam-augustyn/bd99f285-6225-4cd3-9a55-4ba75963e239/index.html</link>
             <guid isPermaLink="false">bd99f285-6225-4cd3-9a55-4ba75963e239</guid>
             <pubDate>Thu, 18 Aug 2016 15:23:53 GMT</pubDate>
         </item>
